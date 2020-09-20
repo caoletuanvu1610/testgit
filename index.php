@@ -7,8 +7,10 @@
 </head>
 <body>
 	<?php
-	echo "Hello World";
+	echo "cc";
 	echo "Tao thay tao met";
+	
+	
 	?>
 </body>
 </html>
